@@ -1,2 +1,3 @@
-# Alpro-Nino-Adit
-Tugas UAS Projek Algoritma Pemrograman Nino-Adit
+# Internet Cafe Console Program 
+Final Exam Project (only support Bahasa as language)
+
